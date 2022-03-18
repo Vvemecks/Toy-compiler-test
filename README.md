@@ -99,3 +99,10 @@ main:                                   # @main
 
 ## 可执行文件
 直接使用 `clang` 编译上述汇编文件，得到可执行文件，运行后使用 `echo $?` 查看返回值，得到 `42`
+
+## 参考
+[LLVM IR入门指南](https://github.com/Evian-Zhang/llvm-ir-tutorial)
+
+[北航软件学院编译原理实验](https://www.buaasecompiling.cn/)
+
+[Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
